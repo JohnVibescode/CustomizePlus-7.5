@@ -1,13 +1,13 @@
 [
   {
-    "Author": "Risa and Contributors",
-    "Name": "Customize+",
+    "Author": "John Vibescode",
+    "Name": "Customize+ Vibed",
     "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.1.1.2",
     "TestingAssemblyVersion": "2.1.1.2",
-    "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
+    "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
