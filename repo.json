@@ -4,7 +4,7 @@
     "Name": "Customize+ Vibed",
     "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
     "Punchline": "Customize your character beyond FFXIV's limitations.",
-    "InternalName": "CustomizePlusVibed",
+    "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.0.0.0",
     "TestingAssemblyVersion": "2.0.0.0",
     "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
