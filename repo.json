@@ -6,7 +6,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "2.1.2.0",
-    "TestingAssemblyVersion": "2.1.1.2",
+    "TestingAssemblyVersion": "2.1.2.0",
     "RepoUrl": "https://github.com/JohnVibescode/CustomizePlus-7.5",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
