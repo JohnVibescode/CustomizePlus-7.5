@@ -6,7 +6,7 @@ Repo: https://raw.githubusercontent.com/JohnVibescode/CustomizePlus-7.5/main/rep
 
 
 
-Since the name was changed to not conflict and be distinctive you have to copy your profiles over.
+**Since the name was changed to not conflict and be distinctive you have to copy your profiles over.**
 
 Open Run
 
