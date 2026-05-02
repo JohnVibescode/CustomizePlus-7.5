@@ -8,6 +8,8 @@ This is only for my friends hense why i didn't fork it but i know how you people
 
 This also has the luna and OtterGui swap active so it might still work and interact with the actual C+ but im not going to update this, just uninstall it and remove this repo when the real well coded C+ is up.
 
+It won't break your templates or profiles, Luna is a UI change and and Profile.cs and Template.cs still use the same json structure as before so unless the dev breaks it so even 7.4 version profiles wont work, it's fine and just angry screaming because for some reason these guys decided to push luna and make everyone wait instead of just updating it with ottergui intact and taking their time keeping it down while adding Luna. (For reference the chinese fork updated it the Ottergui way and with 15 line changes it was working on 7.5 while they wait for the luna update)
+
 
 ----------------------------------------------------------------------------------
 Repo: https://raw.githubusercontent.com/JohnVibescode/CustomizePlus-7.5/main/repo.json
