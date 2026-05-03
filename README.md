@@ -18,3 +18,4 @@ For the lulz heres the claude response to the brio dev (Take this very seriously
 
 <img width="839" height="694" alt="Fh95CMIIf8" src="https://github.com/user-attachments/assets/0c9fbf08-b9c2-464f-878b-b8de2f41ce2a" />
 
+<img width="456" height="446" alt="IGJJC4SiSg" src="https://github.com/user-attachments/assets/c2539bcf-267f-4778-b77a-b37e3acdc453" />
