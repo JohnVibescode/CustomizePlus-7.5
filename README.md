@@ -20,3 +20,8 @@ Idk why they are fear mongering, could just use that time updating their plugin 
 ----------------------------------------------------------------------------------
 Repo: https://raw.githubusercontent.com/JohnVibescode/CustomizePlus-7.5/main/repo.json
 ----------------------------------------------------------------------------------
+
+For the lulz
+
+<img width="839" height="694" alt="Fh95CMIIf8" src="https://github.com/user-attachments/assets/0c9fbf08-b9c2-464f-878b-b8de2f41ce2a" />
+
