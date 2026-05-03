@@ -1,5 +1,6 @@
 Chort Yappage reduced version.
 
+Update: When risa's version drops when you hit update it should just automatically swap to theirs since the version release they have will be higher. Once it does can just delete my repo, rest should be done by updating.
 ----------------------------------------
 THIS IS AI MADE. Claude Opus 4.7 Adaptive made this with me giving it the supporting files, It was fed the outdated  C+ and Abelfreyja luna migration of it, Along with Clientstruts, Penumbra, Glamourer and Ktisis to cross reference updates and changes. Everything was tested on a dev DLL build before being pushed and everything works as it should.
 
