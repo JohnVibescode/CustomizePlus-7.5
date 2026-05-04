@@ -1,9 +1,14 @@
-Chort Yappage reduced version.
+Testing version of Customize+ real is out. Once you hit update i can confirm it automatically swaps to their version and uninstalls mine! 
 
-Update: When risa's version drops when you hit update it should just automatically swap to theirs since the version release they have will be higher. Once it does can just delete my repo, rest should be done by updating.
+This version does work with the current real version and will show peoples C+ so make sure you hit update to swap!
 
-This does NOT include the testing version, their testing version is actually broken and doing what they accused this one of doing, irony is a fickle mistress.
+I also can confirm that Templates and Profiles are totally okay! Fearmongering wasn't warrented after all who could have guessed.
 
+Thank you to the 1600 users who used this plugin, im glad everything worked out for you and thank you for the content. Il be back next time!
+
+
+
+(Also i enjoy the irony that their testing version did what they accused this one of, very funny ty risa)
 ----------------------------------------
 THIS IS AI MADE. Claude Opus 4.7 Adaptive made this with me giving it the supporting files, It was fed the outdated  C+ and Abelfreyja luna migration of it, Along with Clientstruts, Penumbra, Glamourer and Ktisis to cross reference updates and changes. Everything was tested on a dev DLL build before being pushed and everything works as it should.
 
