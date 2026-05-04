@@ -1,6 +1,7 @@
 Chort Yappage reduced version.
 
 Update: When risa's version drops when you hit update it should just automatically swap to theirs since the version release they have will be higher. Once it does can just delete my repo, rest should be done by updating.
+
 This does NOT include the testing version, their testing version is actually broken and doing what they accused this one of doing, irony is a fickle mistress.
 
 ----------------------------------------
