@@ -1,9 +1,9 @@
-Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on.
-ALSO REMOVE THE REPO, if you do the uninstalling goes away, that is a feature. REMOVE REPOS WHEN YOU ARE NOT USING THAT PLUGIN, THAT GOES FOR ANYTHING.
+Turn mine off before hitting install/update on risas, dalamud doesn't like two DLLs at the same time.
+ALSO REMOVE THE REPO.
 
 -----------------------------------
 
-Update2: If you deleted mine without updating it first and going to risas then do the following.
+Update: If you deleted mine without updating it first and going to risas then do the following.
 
 Head to the start Menu and type Run
 
