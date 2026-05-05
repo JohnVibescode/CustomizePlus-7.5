@@ -23,13 +23,3 @@ Turn C+ on and off again and should be fixed.
 If you still have any issues after this, or do not understand this, please head over to the Aetherworks Discord and go to the #Customize-plus discussion channel. They will be glad to help you. https://discord.gg/KvGJCCnG8t
 --------------------------------
 
-
-They pushed a update to break file paths of the old one with Profile_filesystem and Template_filesystem to clean it up, i fixed that in my updated version for a more seemless transition but if you didn't update thats the fix.
-
-------------------------------
-Thank you to the 1800 users who used this plugin, im glad everything worked out for you and thank you for the content. Il be back next time!
-------------------------------
-
-
-(Also i enjoy the irony that they broke it on .4 when it worked on .2 and .3 and did what they accused this one of, very funny ty risa i appreciate the readme shoutout)
-<img width="534" height="758" alt="Mgi1sByj08" src="https://github.com/user-attachments/assets/1d7ef2fd-d40d-4832-bac3-44e3e254096f" />
