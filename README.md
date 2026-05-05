@@ -1,4 +1,4 @@
-Make sure to Update then Turn mine off before hitting install/update on risas, dalamud doesn't like two DLLs at the same time.
+Make sure to Update then Turn mine off and delete it before hitting install/update on risas, dalamud doesn't like two DLLs at the same time.
 ALSO REMOVE THE REPO.
 
 -----------------------------------
