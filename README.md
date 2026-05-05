@@ -1,4 +1,5 @@
-Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on. 
+Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on.
+ALSO REMOVE THE REPO, if you do the uninstalling goes away, that is a feature. REMOVE REPOS WHEN YOU ARE NOT USING THAT PLUGIN, THAT GOES FOR ANYTHING.
 
 I added a update to change it to risas new file pathing, rest is dalamud being fickle.
 
