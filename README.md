@@ -1,7 +1,7 @@
 Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on.
 ALSO REMOVE THE REPO, if you do the uninstalling goes away, that is a feature. REMOVE REPOS WHEN YOU ARE NOT USING THAT PLUGIN, THAT GOES FOR ANYTHING.
 
-I added a update to change it to risas new file pathing, rest is dalamud being fickle.
+I added a update to change it to risas new file pathing just to make sure everything works smoothly on transition.
 
 Testing version of Customize+ real is out. Turn off the plugin and hit update/install then automatically swaps to their version and uninstalls mine! (Gotta enable testing version, if not just wait for real version and it will do the same shit)
 
