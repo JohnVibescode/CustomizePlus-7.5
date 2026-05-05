@@ -1,3 +1,7 @@
+Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on. 
+
+I added a update to change it to risas new file pathing, rest is dalamud being fickle.
+
 Testing version of Customize+ real is out. Once you hit update i can confirm it automatically swaps to their version and uninstalls mine! (Gotta enable testing version, if not just wait for real version and it will do the same shit)
 
 This version does work with the current real version and will show peoples C+ so make sure you hit update to swap! (Tested both ways with one person sending data from testing C+ to me and vice versa. It causes no crashes and works fine but still update to the new one)
