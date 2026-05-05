@@ -1,15 +1,26 @@
 Update: If you get a install error when trying to update risas, restart the game, turn mine off (Can delete it too if it isn't auto deleted) then turn risas on.
 ALSO REMOVE THE REPO, if you do the uninstalling goes away, that is a feature. REMOVE REPOS WHEN YOU ARE NOT USING THAT PLUGIN, THAT GOES FOR ANYTHING.
 
+-----------------------------------
+
 Update2: If you deleted mine without updating it first and going to risas then do the following.
 
 Head to the start Menu and type Run
+
 Type %AppData%\XIVLauncher\pluginConfigs\CustomizePlus\ inside of that.
+
 Copy the Profiles and Templates folder to the desktop
+
 Open FFXIV, uninstall mine and remove the repo. Right click on risas and hit Reset Plugin Data, uninstall hers and then close the game.
+
 Open FFXIV again and reinstall risas.
+
 Head back to %AppData%\XIVLauncher\pluginConfigs\CustomizePlus\ and paste those folders back into there.
+
 Turn C+ on and off again and should be fixed.
+
+
+
 
 They pushed a update to break file paths of the old one with Profile_filesystem and Template_filesystem to clean it up, i fixed that in my updated version for a more seemless transition but if you didn't update thats the fix.
 
