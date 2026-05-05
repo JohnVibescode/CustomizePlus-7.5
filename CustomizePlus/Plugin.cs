@@ -25,6 +25,11 @@ public sealed class Plugin : IDalamudPlugin
             _services = ServiceManagerBuilder.CreateProvider(pluginInterface, Logger);
             _services.EnsureRequiredServices();
 
+            // Migrate UI organization files from the old flat layout used by earlier api15 builds
+            // into the new subfolder layout used by official Customize+ 2.x. Runs once at startup.
+            // No-op for users already on the new layout. Never touches profile/template data.
+            _services.GetService<FilenameService>().MigrateUiOrganizationFiles();
+
             _services.GetService<IpcHandler>().Initialize();
             _services.GetService<PcpService>();
             _services.GetService<ActorManager>(); //needs to be initialized early for config to be read properly
