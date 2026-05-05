@@ -19,7 +19,9 @@ Head back to %AppData%\XIVLauncher\pluginConfigs\CustomizePlus\ and paste those 
 
 Turn C+ on and off again and should be fixed.
 
-
+----------------------------
+If you still have any issues after this, or do not understand this, please head over to the Aetherworks Discord and go to the #Customize-plus discussion channel. They will be glad to help you. https://discord.gg/KvGJCCnG8t
+--------------------------------
 
 
 They pushed a update to break file paths of the old one with Profile_filesystem and Template_filesystem to clean it up, i fixed that in my updated version for a more seemless transition but if you didn't update thats the fix.
