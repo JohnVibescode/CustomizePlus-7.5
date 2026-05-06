@@ -21,7 +21,7 @@ Turn C+ on and off again and should be fixed.
 
 ----------------------------
 If you still have any issues after this, or do not understand this, please head over to the Aetherworks Discord and go to the #Customizeplus-discussion channel. They will be glad to help you. https://discord.gg/KvGJCCnG8t
-
+----------------------------
 Also make sure to support risa for all the extra work she created for herself! https://ko-fi.com/risadev
 --------------------------------
 
