@@ -25,3 +25,4 @@ If you still have any issues after this, or do not understand this, please head 
 Also make sure to support risa for all the extra work she created for herself! https://ko-fi.com/risadev
 --------------------------------
 
+Since i know you read this risa, you can thank minmoose for promoting this btw, this has 30 downloads until he tweeted it and i told my friends to not share it unless they were willing to help them update later LOL, yall coulda just kept quiet but you saw a fork and immediately got angry and blasted it on twitter for people to search and find, then pushed 2 versions that updated perfectly from this, got angry again and then broke it on purpose, good work! LMAO
